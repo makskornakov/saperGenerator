@@ -1,2 +1,2 @@
 # saperGenerator
-generates Saper
+Simple script that generates saper field
